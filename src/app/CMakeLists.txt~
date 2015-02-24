@@ -1,5 +1,4 @@
 SET(QGIS_APP_SRCS
-  mainQgis.cpp
   qgisapp.cpp
   qgisappinterface.cpp
   qgisappstylesheet.cpp
