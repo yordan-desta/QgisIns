@@ -19,7 +19,7 @@ int main(int argc, char * argv[])
 	
 bool isAuthenticated()
 	{
-		char* logFileUri="/home/pyordan/logfile";
+		char* logFileUri="../python/logfile";
 		std::string line;
 		std::string loginMsg="user is authenticated";
 		bool auth;
